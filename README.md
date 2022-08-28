@@ -5,5 +5,5 @@ For the latest existing set of libraries this repository makes available to your
 
 ## Latest Libraries Available
 
-- [Lets Gooo Composables](https://github.com/RyanMolyneux/LetsGoooComposables) 
-- [Lets Gooo Datastore](https://github.com/RyanMolyneux/LetsGoooDataStore)
+- [Lets Gooo Composables](https://github.com/RyanMolyneux/LetsGoooComposables), Library Type: AAR.
+- [Lets Gooo Datastore](https://github.com/RyanMolyneux/LetsGoooDataStore), Library Type: JAR.
